@@ -6,8 +6,4 @@
 - 😄 Pronouns: he.  
 - ⚡ Fun fact: idk.  
 
-```php
-const sayHello = 'Hello';
 
-
-```
