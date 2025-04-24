@@ -6,11 +6,11 @@
 ## 🧩 About Me
 
 - 🔭 Currently working on real projects using **Symfony**, **Laravel**, and **Vue.js**  
-- ⚙️ I use daily: `PHP`, `JS`, `Go`, `Vue`, `React`, `jQuery`, `Symfony`, `Laravel`  
+- ⚙️ I use daily: `PHP`, `JS`, `Vue`, `React`, `Symfony`, `Laravel`
 - 🌱 Learning: `Fiber` + polishing my architecture skills with Clean Arch & DDD  
 - 💬 Ask me about anything related to fullstack dev or morning motivation  
 - 📫 Telegram me at: [@LOVEEESSSSFRONTEND](https://t.me/LOVEEESSSSFRONTEND)  
-- ⏰ I wake up at **5AM** to write code, even before coffee hits  
+- ⏰ I usually start my coding day early — mornings give me focus and peace. 
 - ⚡ Fun fact: sometimes I debug better when I'm hangry 😤
 
 ---
