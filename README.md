@@ -1,5 +1,5 @@
 <h1 align="center">👋 Yo, I'm Ali  @LexaFrontDev</h1>
-<p align="center">🧠 Fullstack Developer | 🔥 Early Riser Coder | 🛠 Symfony / Laravel / Vue / Go</p>
+<p align="center">🧠 Fullstack Developer | 🛠 Symfony / Laravel / Vue / Go</p>
 
 ---
 
