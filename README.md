@@ -4,7 +4,7 @@
 ---
 
 ## 🧩 About Me
-
+- 🧒 Age: 17 
 - 🔭 Currently working on real projects using **Symfony**, **Laravel**, **Vue.js**, **React**, **Node.js**, and **Nuxt.js**  
 - ⚙️ I use daily: `PHP`, `JS`, `TS`, `Vue`, `React`, `Nuxt`, `Symfony`, `Laravel`, `Node.js`
 - 🌱 Experienced in applying **Clean Architecture**, **DDD**, and **Hexagonal Architecture** in commercial projects
