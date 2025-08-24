@@ -8,7 +8,6 @@
 - 🔭 Currently working on real projects using **Symfony**, **Laravel**, **Vue.js**, **React**, **Node.js**, and **Nuxt.js**  
 - ⚙️ I use daily: `PHP`, `JS`, `TS`, `Vue`, `React`, `Nuxt`, `Symfony`, `Laravel`, `Node.js`
 - 🌱 Experienced in applying **Clean Architecture**, **DDD**, and **Hexagonal Architecture** in commercial projects
-- 💬 Ask me about anything related to fullstack development or software architecture  
 - 📫 Telegram me at: [@LOVEEESSSSFRONTEND](https://t.me/LOVEEESSSSFRONTEND)  
 - ⏰ I usually start my coding day early — mornings give me focus and peace  
 - ⚡ Fun fact: sometimes I debug better when I'm hangry 😤
