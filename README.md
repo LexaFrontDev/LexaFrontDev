@@ -1,20 +1,20 @@
-<h1 align="center">👋 Yo, I'm Ali  @LexaFrontDev</h1>
-<p align="center">🧠 Software Engineer | 🛠 Symfony / Laravel / Vue / React / Node.js / Nuxt.js</p>
+<h1 align="center">👋 Hey there, I'm Ali @LexaFrontDev</h1>
+<p align="center">🧠 Full-stack Developer | 🛠️ Symfony / Laravel / Vue / React / Node.js</p>
 
 ---
 
-## 🧩 About Me
-- 🧒 Age: 17 
-- 🔭 Currently working on real projects using **Symfony**, **Laravel**, **Vue.js**, **React**, **Node.js**, and **Nuxt.js**  
-- ⚙️ I use daily: `PHP`, `JS`, `TS`, `Vue`, `React`, `Nuxt`, `Symfony`, `Laravel`, `Node.js`
-- 🌱 Experienced in applying **Clean Architecture**, **DDD**, and **Hexagonal Architecture** in commercial projects
-- 📫 Telegram me at: [@LOVEEESSSSFRONTEND](https://t.me/LOVEEESSSSFRONTEND)  
-- ⏰ I usually start my coding day early — mornings give me focus and peace  
-- ⚡ Fun fact: sometimes I debug better when I'm hangry 😤
+## 🚀 About Me
+
+* **Experience**: At 17, I'm already gaining hands-on experience by actively working on real-world projects.
+* **Tech Stack**: My daily workflow involves **PHP**, **JavaScript**, **TypeScript**, **Vue.js**, **React**, **Nuxt.js**, **Symfony**, **Laravel**, and **Node.js**.
+* **Architecture**: I have practical experience implementing **Clean Architecture**, **DDD** (Domain-Driven Design), and **Hexagonal Architecture** in commercial projects.
+* **Goal**: I'm always looking to refine my skills and am committed to writing clean, scalable code.
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ My Toolbox
+
+### Languages and Frameworks:
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -28,15 +28,35 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
+
+---
+
+### Build Tools and Styling:
+
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
+
+### CI/CD and Version Control:
+
+<p>
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LexaFrontDev&show_icons=true&theme=radical)
+
+
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://t.me/LOVEEESSSSFRONTEND"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:muxametali445@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+* **Telegram**: [@LOVEEESSSSFRONTEND](https://t.me/LOVEEESSSSFRONTEND)
+* **Email**: [muxametali445@gmail.com](mailto:muxametali445@gmail.com)
