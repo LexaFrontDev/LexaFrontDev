@@ -55,7 +55,7 @@
 ### Quote from my experience:
 > _"Never waste your energy on a team where ideas are perceived as a threat."_
 
---
+---
 
 
 ## 🤝 Let's Connect
