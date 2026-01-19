@@ -51,12 +51,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
-
-
-### Quote from my experience:
-> _"Never waste your energy on a team where ideas are perceived as a threat."_
-
 
 ---
 
