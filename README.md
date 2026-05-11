@@ -5,11 +5,11 @@
 
 ## 🚀 About Me
 
-* **Professional Experience**: Over a year of hands-on experience building and modernizing production-level systems[cite: 17, 78].
-* **Current Focus**: Developing corporate and resort platforms using **PHP 8.3**, **Symfony**, and **React**[cite: 29, 30, 32].
-* **Architecture**: Expertly implementing **Clean Architecture**, **DDD** (Domain-Driven Design), and the **Strangler Pattern** for incremental refactoring[cite: 38, 39, 87, 88].
-* **DevOps**: Experienced in containerization with **Docker** and setting up **CI/CD pipelines**[cite: 31, 89].
-* **Goal**: Committed to writing clean, scalable, and maintainable code that solves real business problems[cite: 92].
+* **Professional Experience**: Over a year of hands-on experience building and modernizing production-level systems.
+* **Current Focus**: Developing corporate and resort platforms using **PHP 8.3**, **Symfony**, and **React**.
+* **Architecture**: Expertly implementing **Clean Architecture**, **DDD** (Domain-Driven Design), and the **Strangler Pattern** for incremental refactoring.
+* **DevOps**: Experienced in containerization with **Docker** and setting up **CI/CD pipelines**.
+* **Goal**: Committed to writing clean, scalable, and maintainable code that solves real business problems.
 
 ---
 
